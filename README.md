@@ -1,4 +1,4 @@
-## StayinAlive
+## Native Insomia
 [My widget description]
 
 ## Features
