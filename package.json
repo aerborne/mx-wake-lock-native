@@ -30,7 +30,6 @@
     "@mendix/pluggable-widgets-tools": "^10.7.1"
   },
   "dependencies": {
-    "@sayem314/react-native-keep-awake": "^1.2.3"
   },
   "resolutions": {
     "react": "18.2.0",
